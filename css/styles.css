@@ -191,6 +191,12 @@ em {
     padding-top: 40px;
     width: 70%;
   }
+  
+  .downbtn {
+    height: 74px;
+    width: 215px;
+    font-size: 29px;
+  }
 
   .f-image {
     font-size: 500%;
